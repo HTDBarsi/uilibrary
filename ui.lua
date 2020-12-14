@@ -113,7 +113,7 @@ function OxyLibrary:Create()
         Oxy.Position = UDim2.new(0.0100864554, 0, 0.0205479451, 0)
         Oxy.Size = UDim2.new(0, 42, 0, 28)
         Oxy.Font = Enum.Font.GothamBold
-        Oxy.Text = "Oxy"
+        Oxy.Text = "RH"
         Oxy.TextColor3 = Color3.fromRGB(108, 108, 108)
         Oxy.TextSize = 20.000
         Oxy.TextWrapped = true
@@ -127,7 +127,7 @@ function OxyLibrary:Create()
         Hub.Position = UDim2.new(0.0706051886, 0, 0.0205479451, 0)
         Hub.Size = UDim2.new(0, 42, 0, 28)
         Hub.Font = Enum.Font.GothamBold
-        Hub.Text = "Hub"
+        Hub.Text = "Shit"
         Hub.TextColor3 = Color3.fromRGB(255, 255, 255)
         Hub.TextSize = 20.000
         Hub.TextWrapped = true
